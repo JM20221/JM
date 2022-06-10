@@ -1,0 +1,24 @@
+<a href="https://colab.research.google.com/github/hiramaralIA/M1M2_HCCA_PAP_PYTHON3-AVANCADO2/blob/main/hcca_14_G_18_13_G_Exerc%C3%ADcios_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+//import pandas as pd
+//funcionarios_df = pd.read_csv('CadastroFuncionarios.csv', sep=';', decimal=',')
+//clientes_df = pd.read_csv('CadastroClientes.csv', sep=';', decimal=',')
+//servicos_df = pd.read_excel('BaseServiçosPrestados.xlsx')
+
+//funcionarios_df = funcionarios_df.drop(['Estado Civil', 'Cargo'], axis=1)
+//display(funcionarios_df)
+//funcionarios_df['salario total'] = funcionarios_df['Salario Base'] + funcionarios_df['Beneficios'] + funcionarios_df['Impostos']
+
+//print('\033[31m'+'                             ----Total da folha de pagamento---- '+'\033[0;0m')
+//print('          \033[1m'+'                           R${:,.2f}\033[1m'.format(sum(funcionarios_df['salario total'])))
+
+//funcionarios_df = funcionarios_df.drop(['ID Funcionário'], axis=1)
+//display(funcionarios_df)
+//total = funcionarios_df
+//print('\033[31m'+'                                   ------Reajuste Salarial------ '+'\033[0;0m')
+//print('         \033[1m'+'                                R${:,.2f}\033[1m'.format(sum(total['salario total']*0.1)))
+  
+//funcionarios_df = funcionarios_df.drop(['VT','VR'], axis=1)
+//display(funcionarios_df)
+
+
+##UTILIZEI O JUPYTER NESSE CODIGO
